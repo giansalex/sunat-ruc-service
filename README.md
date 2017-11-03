@@ -1,1 +1,3 @@
-# sunat-ruc-service
+# RUC API SERVICE
+
+API para consultar el RUC.
